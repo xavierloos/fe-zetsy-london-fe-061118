@@ -26,7 +26,8 @@ h2{
   font-family: 'Times New Roman';
 }
 img .img1{
-  border: gray;
+  border-color: gray;
+  
 }
 a:hover{
   color: red;
