@@ -16,5 +16,17 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
-
+h1{
+  color: gray;
+  font-size: 20mm;
+  font-family: 'Times New Roman';
+}
+h2{
+  color: gray;
+  font-family: 'Times New Roman';
+}
+img #img1{
+  border: gray;
+  
+}
 /* Write all remaining styles here */
