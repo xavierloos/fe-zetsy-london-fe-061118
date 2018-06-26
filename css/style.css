@@ -36,4 +36,7 @@ h2{
 .images-bottom:hover{
   border:5px solid gray;
 }
+.rights{
+  position: right;
+}
 /* Write all remaining styles here */
