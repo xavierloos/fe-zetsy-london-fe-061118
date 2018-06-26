@@ -33,7 +33,7 @@ a{
   padding: 20px;
 }
 .images-bottom{
-  display:  auto;
+  display: block;
 }
 .images-bottom:hover{
   border:5px solid gray;
