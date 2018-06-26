@@ -32,6 +32,9 @@ h2{
 a{
   padding: 20px;
 }
+.images-bottom{
+  
+}
 .images-bottom:hover{
   border:5px solid gray;
 }
