@@ -30,6 +30,6 @@ h2{
   
 }
 a:hover{
-  color: red;
+  border:5px solid gray;
 }
 /* Write all remaining styles here */
