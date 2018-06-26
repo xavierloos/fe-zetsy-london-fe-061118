@@ -29,6 +29,6 @@ img #img1{
   border: gray;
 }
 .images-bottom:hover{
-  border-color: gray;
+  border-color: pink;
 }
 /* Write all remaining styles here */
