@@ -33,7 +33,7 @@ a{
   padding: 20px;
 }
 .images-bottom{
-  
+  overflow: auto;
 }
 .images-bottom:hover{
   border:5px solid gray;
