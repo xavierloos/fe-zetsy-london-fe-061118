@@ -29,6 +29,6 @@ img #img1{
   border: gray;
 }
 .images-bottom:hover{
-  background: red;
+  border-color: gray;
 }
 /* Write all remaining styles here */
