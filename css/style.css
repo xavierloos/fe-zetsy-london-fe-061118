@@ -30,5 +30,6 @@ img #img1{
 }
 .images-bottom:hover{
   border-color: red;
+  background: red;
 }
 /* Write all remaining styles here */
