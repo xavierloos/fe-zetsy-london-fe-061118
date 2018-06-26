@@ -27,6 +27,7 @@ h2{
 }
 img .img1{
   border-color: gray;
+  border-width: 200px;
   
 }
 a:hover{
