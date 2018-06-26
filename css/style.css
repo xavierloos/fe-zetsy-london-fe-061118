@@ -28,7 +28,7 @@ h2{
 img #img1{
   border: gray;
 }
-a.images-bottom:hover{
-  color: red;
+.images-bottom:hover{
+  background: red;
 }
 /* Write all remaining styles here */
