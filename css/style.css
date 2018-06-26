@@ -16,12 +16,14 @@ p{
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 45px 20px;
+	
 }
 h1{
   color: gray;
   font-size: 20mm;
   font-family: 'Times New Roman';
+  padding-top: 12px;
+  
 }
 h2{
   color: gray;
